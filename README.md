@@ -13,7 +13,7 @@ In my role as a Product Data Scientist at Instagram, I'd have a bunch of ways to
 
 (5)Follower Growth: This is about how many new followers IGTV creators are getting. It's a good sign if this number keeps going up.
 
-Revenue: Money talks, right? We'd keep tabs on how much cash Instagram is making from IGTV ads.
+(Revenue: Money talks, right? We'd keep tabs on how much cash Instagram is making from IGTV ads.
 
 Now, beyond these core metrics, there are some other things I'd keep an eye on:
 
